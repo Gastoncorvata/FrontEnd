@@ -1,0 +1,12 @@
+.coderh {
+    height: 115px;
+    width: 180px;
+}
+svg {
+    color: black;
+}
+
+#avatar {
+    position: relative;
+    bottom: 75px;
+}
